@@ -1,4 +1,4 @@
-# TP 2
+# TP 2 Programmation Statistique
 # Exercice 1
 
 # a) Importer le jeu de données 
